@@ -24,6 +24,8 @@ body {
     background-color: #e1e7e7;
 }
 
-.modal-lg {
-    max-width: 80% !important;
+@media (min-width: 768px) {
+    .modal-lg {
+        max-width: 80%;
+    }
 }
