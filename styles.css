@@ -7,7 +7,6 @@ a {
     color: rgba(17, 11, 23, 0.8) !important;
     font-size: 18px;
     font-weight: bold;
-    /*color: rgba(89,57,17,0.80) !important;*/
 }
 
 .container {
@@ -27,4 +26,9 @@ body {
     .modal-lg {
         max-width: 80%;
     }
+}
+
+.social-icons img {
+    height: 54px;
+    width: auto;
 }
