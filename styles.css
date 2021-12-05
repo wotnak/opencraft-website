@@ -1,0 +1,29 @@
+a:visited {
+    color: rgba(17, 11, 23, 0.65) !important;
+    /*color: rgba(89,57,17,0.80) !important;*/
+}
+
+a {
+    text-align: center;
+    color: rgba(17, 11, 23, 0.65) !important;
+    font-size: 18px;
+    font-weight: bold;
+    /*color: rgba(89,57,17,0.80) !important;*/
+}
+
+.container {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+img {
+    height: 80%;
+    width: 80%;
+}
+body {
+    background-color: #e1e7e7;
+}
+
+.modal-lg {
+    max-width: 80% !important;
+}
