@@ -1,11 +1,10 @@
 a:visited {
-    color: rgba(17, 11, 23, 0.65) !important;
-    /*color: rgba(89,57,17,0.80) !important;*/
+    color: inherit;
 }
 
 a {
     text-align: center;
-    color: rgba(17, 11, 23, 0.65) !important;
+    color: rgba(17, 11, 23, 0.8) !important;
     font-size: 18px;
     font-weight: bold;
     /*color: rgba(89,57,17,0.80) !important;*/
